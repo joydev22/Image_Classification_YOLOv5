@@ -1,6 +1,9 @@
 # Description
 This repo contains code for image classification using YOLOv5 for keyboard and mouse. This algorithm is a state-of-the-art object detection model. Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+# Description
+The dataset has been sourced from [roboflow](https://universe.roboflow.com/rajarshi-ghosh-dastidar/keyboard-and-mouse-ts4yq/dataset/14)| 
+
 # Software and Hardware Environment
 | IDE (optional)              | Visual Studio Code       |
 | :-------------------------- | :----------------------- |
