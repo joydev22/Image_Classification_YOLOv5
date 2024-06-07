@@ -1,4 +1,4 @@
-# Image_Classification_YOLOv5
+# Description
 This repo contains code for image classification using YOLOv5 for keyboard and mouse. This algorithm is a state-of-the-art object detection model. Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 # Software and Hardware Environment
